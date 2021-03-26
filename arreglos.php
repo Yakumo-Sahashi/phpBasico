@@ -1,7 +1,6 @@
 <?php
     //un arreglo es un tipo de dato que puede contener n datos 
     //a partir de un almacenamiento por indice y se utiliza la palabra reservada array();
-
     $arreglo = array();
     $arreglo[0] = "Juan";
     $arreglo[1] = 10;
